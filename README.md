@@ -1,1 +1,1 @@
-<h1>Criando um site simples uitlizanod apenas HTML</h1>
+<h1>Criando um site simples uitlizando apenas HTML</h1>
